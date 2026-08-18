@@ -45,3 +45,4 @@ Yes, though compression of 4K files takes significantly longer without NVENC/AMF
 ## License
 
 MIT
+ 
